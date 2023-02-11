@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋 Hi, I’m @Theviacoder<br>👀 I’m interested in flutter and c++<br>🌱 I’m currently learning flutter<br>📫 you can reach me via email and instagram<br>mail: ozturkkaan411@gmail.com<br>instagram: theviacoder
+👋 Hi, I’m @Theviacoder<br>👀 I’m interested in flutter<br>🌱 I’m currently learning flutter<br>📫 you can reach me via email and instagram<br>mail: ozturkkaan411@gmail.com<br>instagram: theviacoder
 
 
 ## 🌐 Socials:
